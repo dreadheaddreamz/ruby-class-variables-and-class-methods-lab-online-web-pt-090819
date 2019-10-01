@@ -10,5 +10,7 @@ class Song
     @@name = name
     @@artists = artists
     @@genre = genre
+    @@genre << genre
+    @@artists << artists 
   
 end
