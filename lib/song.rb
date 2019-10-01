@@ -26,7 +26,7 @@ class Song
     @@artists.uniq
   end
   
-end
+
   
   
   
