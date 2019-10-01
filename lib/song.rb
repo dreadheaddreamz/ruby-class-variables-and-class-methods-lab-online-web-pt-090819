@@ -5,4 +5,4 @@ class Song
   @@artists = []
   @@genre = []
   
-  
+end
