@@ -34,7 +34,7 @@ class Song
       elsif new.keys.include?(gen)
         new[gen] += 1 
       end
-    end
+  
     new
   end
   
@@ -46,7 +46,7 @@ class Song
       elsif new.keys.include?(art)
         new[art] += 1
       end
-    end
+  
     new
   end
 
@@ -58,5 +58,3 @@ end
   
   
   
-  
-end
